@@ -1,0 +1,7 @@
+[telegram]
+bot_api = "TELEGRAM BOT TOKEN HERE"
+admins = [
+    "ADMINS HERE"
+]
+main_group_id = "MAIN GROUP ID HERE
+username = "TELEGRAM BOT ID HERE"

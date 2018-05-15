@@ -1,0 +1,12 @@
+[package]
+name = "cityarts_bot"
+version = "0.1.0"
+authors = ["xuserwhat <quicknshell@gmail.com>"]
+
+[dependencies]
+telegram-bot = {git = "https://github.com/telegram-rs/telegram-bot.git"}
+tokio-core = "0.1"
+futures = "0.1"
+toml = "0.4"
+serde = "1.0.55"
+serde_derive = "1.0.55"
